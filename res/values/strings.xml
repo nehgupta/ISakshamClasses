@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">I-Saksham</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Welcome to I-Saksham</string>
+    <string name="click_to_open">Click on logo to open classes..</string>
+    <string name="classes">Classes</string>
+    <string name="click_to_open_classes">Click on classes to open..</string>
+</resources>
