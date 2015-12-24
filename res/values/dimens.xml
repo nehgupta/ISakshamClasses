@@ -8,5 +8,6 @@
     <dimen name="logo_width">300dp</dimen>
     <dimen name="logo_margin">50dp</dimen>
     <dimen name="click_text_margin">20dp</dimen>
+    <dimen name="List_view_item">20sp</dimen>
 
 </resources>
